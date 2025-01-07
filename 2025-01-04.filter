@@ -341,6 +341,17 @@ PlayEffect White
 MinimapIcon 2 White Circle
 SetFontSize 40
 
+Hide
+Class "Currency"
+BaseType "Chayula's Catalyst" "Esh's Catalyst" "Flesh Catalyst" "Xoph's Catalyst" "Reaver Catalyst" "Sibilant Catalyst" "Skittering Catalyst" "Tul's Catalyst" "Uul-Netol's Catalyst"
+SetTextColor 255 207 132
+SetBorderColor 255 207 132
+SetBackgroundColor 76 51 12
+PlayAlertSound 2 300
+PlayEffect White
+MinimapIcon 2 White Circle
+SetFontSize 40
+
 Show
 Class "Currency"
 BaseType "Distilled" "Catalyst" "Essence of"
