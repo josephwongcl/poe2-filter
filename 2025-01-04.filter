@@ -533,6 +533,10 @@ DropLevel < 50
 AreaLevel > 72
 SetFontSize 35
 
+Hide
+BaseType = "Advanced "
+Rarity <= Rare
+
 Show
 Rarity Rare
 SetFontSize 35
